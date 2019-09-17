@@ -52,7 +52,7 @@ scanf_s("%d%d", &a, &b);
 printf("%d\n", add(a,b));
 }
 
-. 두명의 구조체 정보를 배열에 초기화하고 포인터로 화면에 출력하시오.
+4. 두명의 구조체 정보를 배열에 초기화하고 포인터로 화면에 출력하시오.
 #include<stdio.h>
 struct user {
  int a;
